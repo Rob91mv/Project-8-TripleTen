@@ -1,6 +1,5 @@
-<img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/bfd63aa7-1b7e-4915-b209-e3a6bbffb372" />
 # Predicting Customer Churn at Beta Bank Using Machine Learning
-![](https://pbs.twimg.com/profile_banners/1450876299858358278/1651250341/1500x500)
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fx.com%2Fthebetabank&psig=AOvVaw01GsRB_vr66XCSNkBqoFe1&ust=1758986676885000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIjhlpbe9o8DFQAAAAAdAAAAABAE)
 
 
 ## Project Overview:
