@@ -1,5 +1,5 @@
 # Predicting Customer Churn at Beta Bank Using Machine Learning
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fx.com%2Fthebetabank&psig=AOvVaw01GsRB_vr66XCSNkBqoFe1&ust=1758986676885000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIjhlpbe9o8DFQAAAAAdAAAAABAE)
+![](https://pbs.twimg.com/profile_banners/1450876299858358278/1651250341/1500x500)
 
 
 ## Project Overview:
